@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.15",
+    "@types/ws": "^8.2.2",
+    "commander": "^9.0.0",
+    "readline-sync": "^1.4.10",
+    "ws": "^8.4.2"
+  }
+}
